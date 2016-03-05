@@ -1,3 +1,3 @@
-# Puzzle
+# Ball Panic
 
-Memory game with cards in which you need to find pairs.
+Arcade game with ads and in-game purchases.

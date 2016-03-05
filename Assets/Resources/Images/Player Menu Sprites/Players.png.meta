@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: ea4172879a5a59a4aac66152c7dea08e
+timeCreated: 1457168293
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player Sprite
+    21300002: Homosapiens Sprite
+    21300004: Zombie Sprite
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player Sprite
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 153
+        width: 155
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.5, y: 117}
+        - {x: -74.5, y: 117}
+        - {x: -64.5, y: 67}
+        - {x: -77.5, y: 28}
+        - {x: -77.5, y: -51}
+        - {x: -47.5, y: -117}
+        - {x: 47.5, y: -117}
+        - {x: 77.5, y: -50}
+        - {x: 77.5, y: 30}
+        - {x: 66.5, y: 70}
+    - name: Homosapiens Sprite
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 155
+        width: 154
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 117}
+        - {x: -57, y: 32}
+        - {x: -77, y: 26}
+        - {x: -77, y: -54}
+        - {x: -47, y: -117}
+        - {x: 49, y: -117}
+        - {x: 77, y: -53}
+        - {x: 77, y: 29}
+        - {x: 53, y: 117}
+    - name: Zombie Sprite
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 156
+        width: 156
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 117}
+        - {x: -44, y: 117}
+        - {x: -48, y: 102}
+        - {x: -78, y: 28}
+        - {x: -78, y: -51}
+        - {x: -47, y: -117}
+        - {x: 48, y: -117}
+        - {x: 78, y: -50}
+        - {x: 78, y: 30}
+        - {x: 51, y: 114}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

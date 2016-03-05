@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: b674a4e78ffe45743862cf457c1256f8
+timeCreated: 1457168765
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game stuff1_0
+    21300002: Game stuff1_1
+    21300004: Game stuff1_2
+    21300006: Game stuff1_3
+    21300008: Game stuff1_4
+    21300010: Game stuff1_5
+    21300012: Game stuff1_6
+    21300014: Game stuff1_7
+    21300016: Game stuff1_8
+    21300018: Game stuff1_9
+    21300020: Game stuff1_10
+    21300022: Game stuff1_11
+    21300024: Game stuff1_12
+    21300026: Game stuff1_13
+    21300028: Game stuff1_14
+    21300030: Game stuff1_15
+    21300032: Game stuff1_16
+    21300034: Game stuff1_17
+    21300036: Game stuff1_18
+    21300038: Game stuff1_19
+    21300040: Game stuff1_20
+    21300042: Game stuff1_21
+    21300044: Game stuff1_22
+    21300046: Game stuff1_23
+    21300048: Game stuff1_24
+    21300050: Game stuff1_25
+    21300052: Game stuff1_26
+    21300054: Game stuff1_27
+    21300056: Game stuff1_28
+    21300058: Game stuff1_29
+    21300060: Game stuff1_30
+    21300062: Game stuff1_31
+    21300064: Game stuff1_32
+    21300066: Game stuff1_33
+    21300068: Game stuff1_34
+    21300070: Game stuff1_35
+    21300072: Game stuff1_36
+    21300074: Game stuff1_37
+    21300076: Game stuff1_38
+    21300078: Game stuff1_39
+    21300080: Game stuff1_40
+    21300082: Game stuff1_41
+    21300084: Game stuff1_42
+    21300086: Game stuff1_43
+    21300088: Game stuff1_44
+    21300090: Game stuff1_45
+    21300092: Game stuff1_46
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Game stuff1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 452
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28.5}
+        - {x: -31, y: 26.5}
+        - {x: -31, y: -28.5}
+        - {x: 24, y: -28.5}
+        - {x: 31, y: -22.5}
+        - {x: 31, y: 21.5}
+        - {x: 15, y: 28.5}
+    - name: Game stuff1_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 450
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 30}
+        - {x: -37.5, y: 15}
+        - {x: -37.5, y: -27}
+        - {x: -33.5, y: -30}
+        - {x: 36.5, y: -30}
+        - {x: 37.5, y: -29}
+        - {x: 37.5, y: 17}
+        - {x: 25.5, y: 30}
+    - name: Game stuff1_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 451
+        width: 81
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 23}
+        - {x: 13.5, y: 23}
+        - {x: -40.5, y: 12}
+        - {x: -40.5, y: -21}
+        - {x: -35.5, y: -23}
+        - {x: 16.5, y: -23}
+        - {x: 40.5, y: -12}
+        - {x: 40.5, y: 22}
+    - name: Game stuff1_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 453
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26}
+        - {x: -25, y: 20}
+        - {x: -25, y: -19}
+        - {x: -17, y: -26}
+        - {x: 18, y: -26}
+        - {x: 25, y: -22}
+        - {x: 25, y: 18}
+        - {x: 16, y: 26}
+    - name: Game stuff1_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 446
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 32.5}
+        - {x: -30, y: -22.5}
+        - {x: -24, y: -32.5}
+        - {x: 30, y: -32.5}
+        - {x: 30, y: 12.5}
+        - {x: 24, y: 32.5}
+    - name: Game stuff1_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 447
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 26.5}
+        - {x: -9.5, y: 26.5}
+        - {x: -33.5, y: -15.5}
+        - {x: -33.5, y: -26.5}
+        - {x: -5.5, y: -26.5}
+        - {x: 12.5, y: -22.5}
+        - {x: 33.5, y: -3.5}
+        - {x: 33.5, y: 12.5}
+        - {x: 27.5, y: 17.5}
+    - name: Game stuff1_6
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 445
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -23.5}
+        - {x: -19.5, y: -31.5}
+        - {x: 17.5, y: -31.5}
+        - {x: 24.5, y: -29.5}
+        - {x: 24.5, y: 24.5}
+        - {x: 22.5, y: 31.5}
+        - {x: -19.5, y: 31.5}
+        - {x: -24.5, y: 28.5}
+    - name: Game stuff1_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 376
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 30}
+        - {x: -37, y: 27}
+        - {x: -37, y: -26}
+        - {x: -35, y: -30}
+        - {x: 18, y: -30}
+        - {x: 37, y: -23}
+        - {x: 37, y: 19}
+        - {x: 25, y: 30}
+    - name: Game stuff1_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 380
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 30.5}
+        - {x: -26, y: 22.5}
+        - {x: -26, y: -12.5}
+        - {x: -17, y: -30.5}
+        - {x: 23, y: -30.5}
+        - {x: 26, y: -13.5}
+        - {x: 26, y: 26.5}
+        - {x: 15, y: 30.5}
+    - name: Game stuff1_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 378
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 18.5}
+        - {x: 24, y: 30.5}
+        - {x: -24, y: 30.5}
+        - {x: -33, y: 12.5}
+        - {x: -33, y: -30.5}
+        - {x: 9, y: -30.5}
+        - {x: 25, y: -17.5}
+        - {x: 33, y: -5.5}
+    - name: Game stuff1_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 381
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 24.5}
+        - {x: -36, y: 18.5}
+        - {x: -36, y: -20.5}
+        - {x: -30, y: -24.5}
+        - {x: 18, y: -24.5}
+        - {x: 34, y: -23.5}
+        - {x: 36, y: -16.5}
+        - {x: 36, y: 24.5}
+    - name: Game stuff1_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 381
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 24.5}
+        - {x: -36, y: 17.5}
+        - {x: -36, y: -17.5}
+        - {x: -29, y: -24.5}
+        - {x: 21, y: -24.5}
+        - {x: 36, y: -14.5}
+        - {x: 36, y: 22.5}
+        - {x: 29, y: 24.5}
+    - name: Game stuff1_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 380
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 25.5}
+        - {x: -37.5, y: 14.5}
+        - {x: -37.5, y: -21.5}
+        - {x: -32.5, y: -25.5}
+        - {x: 26.5, y: -25.5}
+        - {x: 37.5, y: -17.5}
+        - {x: 37.5, y: 18.5}
+        - {x: 29.5, y: 25.5}
+    - name: Game stuff1_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 372
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 34.5}
+        - {x: -22, y: 26.5}
+        - {x: -22, y: -31.5}
+        - {x: -21, y: -34.5}
+        - {x: 22, y: -34.5}
+        - {x: 22, y: 19.5}
+        - {x: 16, y: 34.5}
+    - name: Game stuff1_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 302
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 30.5}
+        - {x: -22.5, y: 18.5}
+        - {x: -22.5, y: -18.5}
+        - {x: -21.5, y: -25.5}
+        - {x: -11.5, y: -30.5}
+        - {x: 12.5, y: -30.5}
+        - {x: 22.5, y: -19.5}
+        - {x: 22.5, y: 24.5}
+        - {x: 12.5, y: 30.5}
+    - name: Game stuff1_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 301
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 31}
+        - {x: -28.5, y: 20}
+        - {x: -28.5, y: -30}
+        - {x: -23.5, y: -31}
+        - {x: 27.5, y: -31}
+        - {x: 28.5, y: -29}
+        - {x: 28.5, y: 28}
+        - {x: 22.5, y: 31}
+    - name: Game stuff1_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 295
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 37}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -18}
+        - {x: -12.5, y: -37}
+        - {x: 8.5, y: -37}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: 11}
+        - {x: 10.5, y: 37}
+    - name: Game stuff1_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 316
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 26.5}
+        - {x: -28, y: 4.5}
+        - {x: -28, y: -26.5}
+        - {x: 28, y: -26.5}
+        - {x: 28, y: 0.5}
+        - {x: 15, y: 26.5}
+    - name: Game stuff1_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 335
+        width: 83
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 18}
+        - {x: -41.5, y: 16}
+        - {x: -41.5, y: -18}
+        - {x: 28.5, y: -18}
+        - {x: 41.5, y: 3}
+        - {x: 41.5, y: 18}
+    - name: Game stuff1_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 298
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 36}
+        - {x: -23, y: 36}
+        - {x: -27, y: 33}
+        - {x: -27, y: -21}
+        - {x: -26, y: -26}
+        - {x: -9, y: -36}
+        - {x: 26, y: -36}
+        - {x: 27, y: -34}
+        - {x: 27, y: -14}
+        - {x: 7, y: 20}
+    - name: Game stuff1_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 297
+        width: 23
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Game stuff1_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 299
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 36}
+        - {x: -17, y: -36}
+        - {x: 16, y: -36}
+        - {x: 17, y: -23}
+        - {x: 17, y: 29}
+        - {x: 10, y: 36}
+    - name: Game stuff1_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 208
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 40.5}
+        - {x: -10.5, y: 40.5}
+        - {x: -23.5, y: 32.5}
+        - {x: -24.5, y: 27.5}
+        - {x: -24.5, y: -15.5}
+        - {x: -13.5, y: -40.5}
+        - {x: 10.5, y: -40.5}
+        - {x: 24.5, y: -10.5}
+        - {x: 24.5, y: 32.5}
+        - {x: 23.5, y: 33.5}
+    - name: Game stuff1_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 264
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 20.5}
+        - {x: -26.5, y: 20.5}
+        - {x: -34.5, y: 18.5}
+        - {x: -34.5, y: -19.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 34.5, y: -15.5}
+        - {x: 34.5, y: -3.5}
+        - {x: 33.5, y: -0.5}
+    - name: Game stuff1_24
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 275
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 26.5}
+        - {x: -27, y: 11.5}
+        - {x: -27, y: -19.5}
+        - {x: -19, y: -26.5}
+        - {x: 24, y: -26.5}
+        - {x: 27, y: -18.5}
+        - {x: 27, y: 17.5}
+        - {x: 18, y: 26.5}
+    - name: Game stuff1_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 224
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 36}
+        - {x: -20, y: 35}
+        - {x: -20, y: -22}
+        - {x: -12, y: -36}
+        - {x: 20, y: -36}
+        - {x: 20, y: 14}
+        - {x: -2, y: 36}
+    - name: Game stuff1_26
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 227
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 28.5}
+        - {x: -23.5, y: 24.5}
+        - {x: -23.5, y: -3.5}
+        - {x: -16.5, y: -26.5}
+        - {x: -15.5, y: -28.5}
+        - {x: 12.5, y: -28.5}
+        - {x: 22.5, y: -24.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 23.5, y: 23.5}
+        - {x: 22.5, y: 28.5}
+    - name: Game stuff1_27
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 222
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 34}
+        - {x: -26.5, y: -6}
+        - {x: -26.5, y: -34}
+        - {x: 14.5, y: -34}
+        - {x: 26.5, y: -14}
+        - {x: 26.5, y: 34}
+    - name: Game stuff1_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 211
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 30}
+        - {x: -24.5, y: 18}
+        - {x: -24.5, y: -24}
+        - {x: -23.5, y: -30}
+        - {x: 20.5, y: -30}
+        - {x: 24.5, y: -21}
+        - {x: 24.5, y: 15}
+        - {x: 8.5, y: 30}
+    - name: Game stuff1_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 211
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 30.5}
+        - {x: -6.5, y: 30.5}
+        - {x: -11.5, y: 25.5}
+        - {x: -25.5, y: 5.5}
+        - {x: -25.5, y: -30.5}
+        - {x: 22.5, y: -30.5}
+        - {x: 22.5, y: -29.5}
+        - {x: 25.5, y: -18.5}
+        - {x: 25.5, y: 9.5}
+    - name: Game stuff1_30
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 197
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27.5}
+        - {x: -32, y: 12.5}
+        - {x: -32, y: -4.5}
+        - {x: -9, y: -22.5}
+        - {x: 0, y: -27.5}
+        - {x: 11, y: -27.5}
+        - {x: 32, y: -3.5}
+        - {x: 32, y: 20.5}
+        - {x: 28, y: 27.5}
+    - name: Game stuff1_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 188
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 41.5}
+        - {x: -20.5, y: 26.5}
+        - {x: -20.5, y: -41.5}
+        - {x: 11.5, y: -41.5}
+        - {x: 20.5, y: 10.5}
+        - {x: 20.5, y: 41.5}
+    - name: Game stuff1_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 66
+        width: 25
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Game stuff1_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 66
+        width: 17
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Game stuff1_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 66
+        width: 38
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 67.5}
+        - {x: -19, y: 59.5}
+        - {x: -16, y: 51.5}
+        - {x: -11, y: -67.5}
+        - {x: 10, y: -67.5}
+        - {x: 13, y: -51.5}
+        - {x: 19, y: 35.5}
+        - {x: 19, y: 67.5}
+    - name: Game stuff1_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 66
+        width: 16
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Game stuff1_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 127
+        width: 208
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: 26}
+        - {x: -104, y: -26}
+        - {x: 104, y: -26}
+        - {x: 104, y: 26}
+    - name: Game stuff1_37
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 91
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 41}
+        - {x: -44, y: -1}
+        - {x: -9, y: -41}
+        - {x: 7, y: -41}
+        - {x: 44, y: -8}
+        - {x: 44, y: 38}
+        - {x: 39, y: 41}
+    - name: Game stuff1_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 62
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 27.5}
+        - {x: -18.5, y: -27.5}
+        - {x: 18.5, y: -27.5}
+        - {x: 18.5, y: 27.5}
+    - name: Game stuff1_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 65
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -16}
+        - {x: -20, y: -23}
+        - {x: 15, y: -23}
+        - {x: 23, y: -15}
+        - {x: 23, y: 21}
+        - {x: 17, y: 23}
+    - name: Game stuff1_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 23}
+        - {x: -23, y: 16}
+        - {x: -23, y: -22}
+        - {x: -19, y: -23}
+        - {x: 19, y: -23}
+        - {x: 23, y: -17}
+        - {x: 23, y: 23}
+    - name: Game stuff1_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 24.5}
+        - {x: -8.5, y: 24.5}
+        - {x: -21.5, y: 9.5}
+        - {x: -21.5, y: -14.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 14.5, y: -24.5}
+        - {x: 21.5, y: -17.5}
+        - {x: 21.5, y: 12.5}
+        - {x: 20.5, y: 19.5}
+    - name: Game stuff1_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 10
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 17}
+        - {x: -36.5, y: -17}
+        - {x: 31.5, y: -17}
+        - {x: 36.5, y: -8}
+        - {x: 36.5, y: 16}
+        - {x: 35.5, y: 17}
+    - name: Game stuff1_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 4
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 26}
+        - {x: -29.5, y: 13}
+        - {x: -29.5, y: -15}
+        - {x: -23.5, y: -26}
+        - {x: 25.5, y: -26}
+        - {x: 29.5, y: -20}
+        - {x: 29.5, y: 13}
+        - {x: 23.5, y: 26}
+    - name: Game stuff1_44
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 4
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 26}
+        - {x: -29.5, y: 13}
+        - {x: -29.5, y: -15}
+        - {x: -23.5, y: -26}
+        - {x: 25.5, y: -26}
+        - {x: 29.5, y: -20}
+        - {x: 29.5, y: 13}
+        - {x: 23.5, y: 26}
+    - name: Game stuff1_45
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 5
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 26}
+        - {x: -29.5, y: 13}
+        - {x: -29.5, y: -15}
+        - {x: -23.5, y: -26}
+        - {x: 25.5, y: -26}
+        - {x: 29.5, y: -20}
+        - {x: 29.5, y: 13}
+        - {x: 23.5, y: 26}
+    - name: Game stuff1_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 5
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 26}
+        - {x: -29.5, y: 13}
+        - {x: -29.5, y: -15}
+        - {x: -23.5, y: -26}
+        - {x: 25.5, y: -26}
+        - {x: 29.5, y: -20}
+        - {x: 29.5, y: 13}
+        - {x: 23.5, y: 26}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

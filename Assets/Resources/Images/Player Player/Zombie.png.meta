@@ -1,21 +1,21 @@
 fileFormatVersion: 2
 guid: 21a8980e25ffd2e4fa4dbcdbed18c668
-timeCreated: 1457168598
+timeCreated: 1457177740
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Zombie_0
-    21300002: Zombie_1
-    21300004: Zombie_2
-    21300006: Zombie_3
-    21300008: Zombie_4
-    21300010: Zombie_5
-    21300012: Zombie_6
-    21300014: Zombie_7
-    21300016: Zombie_8
-    21300018: Zombie_9
-    21300020: Zombie_10
-    21300022: Zombie_11
+    21300000: Zombie Idle
+    21300002: Zombie Walk 1
+    21300004: Zombie Walk 2
+    21300006: Zombie Walk 3
+    21300008: Zombie Walk 4
+    21300010: Zombie Walk 5
+    21300012: Zombie Walk 6
+    21300014: Zombie Walk 7
+    21300016: Zombie Shoot 1
+    21300018: Zombie Shoot 2
+    21300020: Zombie Shoot 3
+    21300022: Zombie Shoot 4
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -62,7 +62,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Zombie_0
+    - name: Zombie Idle
       rect:
         serializedVersion: 2
         x: 24
@@ -70,7 +70,7 @@ TextureImporter:
         width: 152
         height: 157
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 65, y: 24.5}
@@ -83,7 +83,7 @@ TextureImporter:
         - {x: 74, y: 4.5}
         - {x: 76, y: 6.5}
         - {x: 76, y: 22.5}
-    - name: Zombie_1
+    - name: Zombie Walk 1
       rect:
         serializedVersion: 2
         x: 238
@@ -91,7 +91,7 @@ TextureImporter:
         width: 153
         height: 159
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 1.5, y: -79.5}
@@ -101,7 +101,7 @@ TextureImporter:
         - {x: -74.5, y: 79.5}
         - {x: -76.5, y: 74.5}
         - {x: -76.5, y: -79.5}
-    - name: Zombie_2
+    - name: Zombie Walk 2
       rect:
         serializedVersion: 2
         x: 443
@@ -109,7 +109,7 @@ TextureImporter:
         width: 153
         height: 158
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -42.5, y: 79}
@@ -120,7 +120,7 @@ TextureImporter:
         - {x: 76.5, y: -25}
         - {x: 76.5, y: 34}
         - {x: -7.5, y: 79}
-    - name: Zombie_3
+    - name: Zombie Walk 3
       rect:
         serializedVersion: 2
         x: 632
@@ -128,7 +128,7 @@ TextureImporter:
         width: 165
         height: 159
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 11.5, y: 79.5}
@@ -141,29 +141,29 @@ TextureImporter:
         - {x: 9.5, y: -70.5}
         - {x: 82.5, y: 4.5}
         - {x: 82.5, y: 35.5}
-    - name: Zombie_4
+    - name: Zombie Walk 4
       rect:
         serializedVersion: 2
         x: 24
-        y: 212
+        y: 214
         width: 152
         height: 156
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 65, y: 24}
-        - {x: 42, y: 25}
-        - {x: -8, y: 78}
-        - {x: -59, y: 78}
-        - {x: -76, y: 65}
+      - - {x: 65, y: 22}
+        - {x: 42, y: 23}
+        - {x: -4, y: 78}
+        - {x: -49, y: 78}
+        - {x: -62, y: 76}
+        - {x: -76, y: 46}
         - {x: -76, y: -78}
-        - {x: -14, y: -78}
-        - {x: 12, y: -72}
-        - {x: 76, y: 5}
-        - {x: 76, y: 20}
-        - {x: 73, y: 22}
-    - name: Zombie_5
+        - {x: 6, y: -78}
+        - {x: 76, y: -13}
+        - {x: 76, y: 18}
+        - {x: 73, y: 20}
+    - name: Zombie Walk 5
       rect:
         serializedVersion: 2
         x: 236
@@ -171,7 +171,7 @@ TextureImporter:
         width: 152
         height: 159
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 19, y: 26.5}
@@ -184,7 +184,7 @@ TextureImporter:
         - {x: 76, y: 5.5}
         - {x: 76, y: 22.5}
         - {x: 65, y: 25.5}
-    - name: Zombie_6
+    - name: Zombie Walk 6
       rect:
         serializedVersion: 2
         x: 435
@@ -192,7 +192,7 @@ TextureImporter:
         width: 160
         height: 158
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 70, y: 32}
@@ -203,7 +203,7 @@ TextureImporter:
         - {x: 6, y: -79}
         - {x: 80, y: 5}
         - {x: 80, y: 23}
-    - name: Zombie_7
+    - name: Zombie Walk 7
       rect:
         serializedVersion: 2
         x: 635
@@ -211,7 +211,7 @@ TextureImporter:
         width: 162
         height: 157
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 81, y: -5.5}
@@ -227,7 +227,7 @@ TextureImporter:
         - {x: -40, y: -65.5}
         - {x: -32, y: -78.5}
         - {x: 9, y: -78.5}
-    - name: Zombie_8
+    - name: Zombie Shoot 1
       rect:
         serializedVersion: 2
         x: 21
@@ -235,7 +235,7 @@ TextureImporter:
         width: 151
         height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -13.5, y: 80}
@@ -246,7 +246,7 @@ TextureImporter:
         - {x: 75.5, y: 14}
         - {x: 75.5, y: 33}
         - {x: 24.5, y: 30}
-    - name: Zombie_9
+    - name: Zombie Shoot 2
       rect:
         serializedVersion: 2
         x: 217
@@ -254,7 +254,7 @@ TextureImporter:
         width: 149
         height: 163
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -67.5, y: 81.5}
@@ -264,7 +264,7 @@ TextureImporter:
         - {x: 74.5, y: -20.5}
         - {x: 74.5, y: 75.5}
         - {x: 66.5, y: 81.5}
-    - name: Zombie_10
+    - name: Zombie Shoot 3
       rect:
         serializedVersion: 2
         x: 428
@@ -272,7 +272,7 @@ TextureImporter:
         width: 119
         height: 163
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 40.5, y: 73.5}
@@ -286,7 +286,7 @@ TextureImporter:
         - {x: 59.5, y: 51.5}
         - {x: 59.5, y: 78.5}
         - {x: 54.5, y: 80.5}
-    - name: Zombie_11
+    - name: Zombie Shoot 4
       rect:
         serializedVersion: 2
         x: 598
@@ -294,7 +294,7 @@ TextureImporter:
         width: 97
         height: 172
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 29.5, y: 86}

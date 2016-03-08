@@ -1,12 +1,12 @@
 fileFormatVersion: 2
 guid: ea4172879a5a59a4aac66152c7dea08e
-timeCreated: 1457168293
+timeCreated: 1457463455
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Player Sprite
-    21300002: Homosapiens Sprite
-    21300004: Zombie Sprite
+    21300000: Player
+    21300002: Homosapien
+    21300004: Zombie
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -53,48 +53,53 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Player Sprite
+    - name: Player
       rect:
         serializedVersion: 2
         x: 8
         y: 153
         width: 155
-        height: 234
+        height: 273
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 74.5, y: 117}
-        - {x: -74.5, y: 117}
-        - {x: -64.5, y: 67}
-        - {x: -77.5, y: 28}
-        - {x: -77.5, y: -51}
-        - {x: -47.5, y: -117}
-        - {x: 47.5, y: -117}
-        - {x: 77.5, y: -50}
-        - {x: 77.5, y: 30}
-        - {x: 66.5, y: 70}
-    - name: Homosapiens Sprite
+      - - {x: 35.5, y: 136.5}
+        - {x: -48.5, y: 136.5}
+        - {x: -77.5, y: 101.5}
+        - {x: -77.5, y: 72.5}
+        - {x: -59.5, y: 10.5}
+        - {x: -77.5, y: 6.5}
+        - {x: -77.5, y: -70.5}
+        - {x: -47.5, y: -136.5}
+        - {x: 47.5, y: -136.5}
+        - {x: 77.5, y: -69.5}
+        - {x: 77.5, y: 90.5}
+        - {x: 70.5, y: 112.5}
+    - name: Homosapien
       rect:
         serializedVersion: 2
         x: 166
         y: 155
         width: 154
-        height: 234
+        height: 248
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -66, y: 117}
-        - {x: -57, y: 32}
-        - {x: -77, y: 26}
-        - {x: -77, y: -54}
-        - {x: -47, y: -117}
-        - {x: 49, y: -117}
-        - {x: 77, y: -53}
-        - {x: 77, y: 29}
-        - {x: 53, y: 117}
-    - name: Zombie Sprite
+      - - {x: 43, y: 124}
+        - {x: -62, y: 124}
+        - {x: -68, y: 123}
+        - {x: -75, y: 45}
+        - {x: -77, y: 24}
+        - {x: -77, y: -65}
+        - {x: -48, y: -58}
+        - {x: -47, y: -124}
+        - {x: 49, y: -124}
+        - {x: 77, y: -60}
+        - {x: 77, y: 22}
+        - {x: 54, y: 104}
+    - name: Zombie
       rect:
         serializedVersion: 2
         x: 323

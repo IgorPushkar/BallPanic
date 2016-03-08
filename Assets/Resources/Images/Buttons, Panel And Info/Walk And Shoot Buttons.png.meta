@@ -1,10 +1,10 @@
 fileFormatVersion: 2
 guid: 023187d2e66872b43858304770f0afb8
-timeCreated: 1457169393
+timeCreated: 1457174009
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Walk Arrow Button
+    21300000: Walk Button
     21300002: Shoot Button
   serializedVersion: 2
   mipmaps:
@@ -52,7 +52,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Walk Arrow Button
+    - name: Walk Button
       rect:
         serializedVersion: 2
         x: 34

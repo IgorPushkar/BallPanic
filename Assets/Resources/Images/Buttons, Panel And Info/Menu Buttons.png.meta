@@ -1,25 +1,25 @@
 fileFormatVersion: 2
 guid: e18d772636f03ce44a49c1a3355f5f3d
-timeCreated: 1457169344
+timeCreated: 1457172442
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Play Button
+    21300000: Main Menu Play Button
     21300002: Next Button
     21300004: Back Button
-    21300006: Shop Button
+    21300006: Main Menu Shop Button
     21300008: Settings Button
-    21300010: Stars
-    21300012: FB Button
-    21300014: FB Off Button
-    21300016: Leaderboard Button
+    21300010: Rate Us Button
+    21300012: Facebook Log In Button
+    21300014: Facebook Log Out Button
+    21300016: Leaderboard Score Button
     21300018: Info Button
-    21300020: Sound Button
-    21300022: Sound Off Button
-    21300024: Medal Button
-    21300026: Menu Button
-    21300028: Playmarket Button
-    21300030: Play Button 2
+    21300020: Music On Button
+    21300022: Music Off Button
+    21300024: Achievements Button
+    21300026: Back To Main Menu Button
+    21300028: Leaderboards Log In Button
+    21300030: Play Game Button
     21300032: Close Button
   serializedVersion: 2
   mipmaps:
@@ -67,7 +67,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Play Button
+    - name: Main Menu Play Button
       rect:
         serializedVersion: 2
         x: 15
@@ -127,7 +127,7 @@ TextureImporter:
         - {x: 27, y: -118.5}
         - {x: 27, y: 119.5}
         - {x: 21, y: 128.5}
-    - name: Shop Button
+    - name: Main Menu Shop Button
       rect:
         serializedVersion: 2
         x: 15
@@ -172,7 +172,7 @@ TextureImporter:
         - {x: 39.5, y: -32.5}
         - {x: 39.5, y: 23.5}
         - {x: 35.5, y: 39.5}
-    - name: Stars
+    - name: Rate Us Button
       rect:
         serializedVersion: 2
         x: 85
@@ -192,7 +192,7 @@ TextureImporter:
         - {x: 37.5, y: -23.5}
         - {x: 38.5, y: -18.5}
         - {x: 38.5, y: -6.5}
-    - name: FB Button
+    - name: Facebook Log In Button
       rect:
         serializedVersion: 2
         x: 165
@@ -211,7 +211,7 @@ TextureImporter:
         - {x: 35.5, y: -30}
         - {x: 35.5, y: 21}
         - {x: 20.5, y: 36}
-    - name: FB Off Button
+    - name: Facebook Log Out Button
       rect:
         serializedVersion: 2
         x: 240
@@ -227,7 +227,7 @@ TextureImporter:
         - {x: 30.5, y: -36}
         - {x: 35.5, y: -22}
         - {x: 35.5, y: 36}
-    - name: Leaderboard Button
+    - name: Leaderboard Score Button
       rect:
         serializedVersion: 2
         x: 314
@@ -266,7 +266,7 @@ TextureImporter:
         - {x: 34, y: 35.5}
         - {x: -26, y: 35.5}
         - {x: -35, y: 28.5}
-    - name: Sound Button
+    - name: Music On Button
       rect:
         serializedVersion: 2
         x: 84
@@ -287,7 +287,7 @@ TextureImporter:
         - {x: 34, y: -26.5}
         - {x: 35, y: -19.5}
         - {x: 35, y: 21.5}
-    - name: Sound Off Button
+    - name: Music Off Button
       rect:
         serializedVersion: 2
         x: 157
@@ -308,7 +308,7 @@ TextureImporter:
         - {x: 22, y: -31.5}
         - {x: 28, y: -26.5}
         - {x: 35, y: -21.5}
-    - name: Medal Button
+    - name: Achievements Button
       rect:
         serializedVersion: 2
         x: 234
@@ -329,7 +329,7 @@ TextureImporter:
         - {x: 35, y: -21.5}
         - {x: 35, y: 22.5}
         - {x: 33, y: 33.5}
-    - name: Menu Button
+    - name: Back To Main Menu Button
       rect:
         serializedVersion: 2
         x: 5
@@ -347,7 +347,7 @@ TextureImporter:
         - {x: 128.5, y: -14}
         - {x: 128.5, y: 16}
         - {x: 119.5, y: 27}
-    - name: Playmarket Button
+    - name: Leaderboards Log In Button
       rect:
         serializedVersion: 2
         x: 309
@@ -366,7 +366,7 @@ TextureImporter:
         - {x: 37, y: -24.5}
         - {x: 37, y: 22.5}
         - {x: 24, y: 36.5}
-    - name: Play Button 2
+    - name: Play Game Button
       rect:
         serializedVersion: 2
         x: 5

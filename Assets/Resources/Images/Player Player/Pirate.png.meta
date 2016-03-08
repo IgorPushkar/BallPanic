@@ -1,21 +1,21 @@
 fileFormatVersion: 2
 guid: 9a853c49f46976846b0182f44f95386f
-timeCreated: 1457168539
+timeCreated: 1457176974
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Pirate_0
-    21300002: Pirate_1
-    21300004: Pirate_2
-    21300006: Pirate_3
-    21300008: Pirate_4
-    21300010: Pirate_5
-    21300012: Pirate_6
-    21300014: Pirate_7
-    21300016: Pirate_8
-    21300018: Pirate_9
-    21300020: Pirate_10
-    21300022: Pirate_11
+    21300000: Pirate Idle
+    21300002: Pirate Walk 1
+    21300004: Pirate Walk 2
+    21300006: Pirate Walk 3
+    21300008: Pirate Walk 4
+    21300010: Pirate Walk 5
+    21300012: Pirate Walk 6
+    21300014: Pirate Walk 7
+    21300016: Pirate Shoot 1
+    21300018: Pirate Shoot 2
+    21300020: Pirate Shoot 3
+    21300022: Pirate Shoot 4
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -62,7 +62,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Pirate_0
+    - name: Pirate Idle
       rect:
         serializedVersion: 2
         x: 12
@@ -70,7 +70,7 @@ TextureImporter:
         width: 168
         height: 189
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 26, y: 68.5}
@@ -83,7 +83,7 @@ TextureImporter:
         - {x: 84, y: -16.5}
         - {x: 84, y: 5.5}
         - {x: 50, y: 8.5}
-    - name: Pirate_1
+    - name: Pirate Walk 1
       rect:
         serializedVersion: 2
         x: 224
@@ -91,7 +91,7 @@ TextureImporter:
         width: 168
         height: 191
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 17, y: 95.5}
@@ -104,7 +104,7 @@ TextureImporter:
         - {x: 84, y: -46.5}
         - {x: 84, y: 26.5}
         - {x: 37, y: 87.5}
-    - name: Pirate_2
+    - name: Pirate Walk 2
       rect:
         serializedVersion: 2
         x: 426
@@ -112,7 +112,7 @@ TextureImporter:
         width: 168
         height: 191
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 31, y: 81.5}
@@ -126,7 +126,7 @@ TextureImporter:
         - {x: 30, y: -91.5}
         - {x: 84, y: -11.5}
         - {x: 84, y: 30.5}
-    - name: Pirate_3
+    - name: Pirate Walk 3
       rect:
         serializedVersion: 2
         x: 621
@@ -134,7 +134,7 @@ TextureImporter:
         width: 169
         height: 191
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -80.5, y: 95.5}
@@ -146,7 +146,7 @@ TextureImporter:
         - {x: 84.5, y: -15.5}
         - {x: 84.5, y: 30.5}
         - {x: -2.5, y: 95.5}
-    - name: Pirate_4
+    - name: Pirate Walk 4
       rect:
         serializedVersion: 2
         x: 13
@@ -154,7 +154,7 @@ TextureImporter:
         width: 169
         height: 190
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4.5, y: 95}
@@ -167,7 +167,7 @@ TextureImporter:
         - {x: 84.5, y: -14}
         - {x: 84.5, y: 5}
         - {x: 34.5, y: 60}
-    - name: Pirate_5
+    - name: Pirate Walk 5
       rect:
         serializedVersion: 2
         x: 222
@@ -175,7 +175,7 @@ TextureImporter:
         width: 168
         height: 191
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 95.5}
@@ -187,7 +187,7 @@ TextureImporter:
         - {x: 84, y: -11.5}
         - {x: 84, y: 5.5}
         - {x: 31, y: 62.5}
-    - name: Pirate_6
+    - name: Pirate Walk 6
       rect:
         serializedVersion: 2
         x: 423
@@ -195,7 +195,7 @@ TextureImporter:
         width: 169
         height: 189
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -65.5, y: 94.5}
@@ -207,7 +207,7 @@ TextureImporter:
         - {x: 84.5, y: -59.5}
         - {x: 84.5, y: 27.5}
         - {x: 19.5, y: 94.5}
-    - name: Pirate_7
+    - name: Pirate Walk 7
       rect:
         serializedVersion: 2
         x: 621
@@ -215,7 +215,7 @@ TextureImporter:
         width: 168
         height: 189
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -54, y: 94.5}
@@ -225,7 +225,7 @@ TextureImporter:
         - {x: 84, y: -40.5}
         - {x: 84, y: 32.5}
         - {x: -15, y: 94.5}
-    - name: Pirate_8
+    - name: Pirate Shoot 1
       rect:
         serializedVersion: 2
         x: 18
@@ -233,7 +233,7 @@ TextureImporter:
         width: 173
         height: 188
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 2.5, y: 94}
@@ -245,7 +245,7 @@ TextureImporter:
         - {x: 8.5, y: -87}
         - {x: 86.5, y: -3}
         - {x: 86.5, y: 29}
-    - name: Pirate_9
+    - name: Pirate Shoot 2
       rect:
         serializedVersion: 2
         x: 203
@@ -253,7 +253,7 @@ TextureImporter:
         width: 178
         height: 184
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 78, y: 44}
@@ -266,7 +266,7 @@ TextureImporter:
         - {x: 89, y: 25}
         - {x: 89, y: 39}
         - {x: 88, y: 44}
-    - name: Pirate_10
+    - name: Pirate Shoot 3
       rect:
         serializedVersion: 2
         x: 408
@@ -274,7 +274,7 @@ TextureImporter:
         width: 150
         height: 181
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -54, y: 90.5}
@@ -286,7 +286,7 @@ TextureImporter:
         - {x: 31, y: -90.5}
         - {x: 75, y: -16.5}
         - {x: 75, y: 90.5}
-    - name: Pirate_11
+    - name: Pirate Shoot 4
       rect:
         serializedVersion: 2
         x: 575
@@ -294,7 +294,7 @@ TextureImporter:
         width: 128
         height: 181
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 36, y: 90.5}

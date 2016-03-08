@@ -1,12 +1,12 @@
 fileFormatVersion: 2
 guid: 4cb7bf94109048c448bc536929f7516c
-timeCreated: 1457168373
+timeCreated: 1457463420
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Spartan Sprite
-    21300002: Joker Sprite
-    21300004: Pirate Sprite
+    21300000: Spartan
+    21300002: Joker
+    21300004: Pirate
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -53,69 +53,67 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Spartan Sprite
+    - name: Spartan
       rect:
         serializedVersion: 2
         x: 18
         y: 152
         width: 158
-        height: 234
+        height: 233
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 48, y: 116}
-        - {x: 47, y: 117}
-        - {x: -49, y: 117}
-        - {x: -79, y: 40}
-        - {x: -79, y: -50}
-        - {x: -52, y: -117}
-        - {x: 54, y: -117}
-        - {x: 79, y: -50}
-        - {x: 79, y: 30}
-        - {x: 48, y: 30}
-    - name: Joker Sprite
+      - - {x: 48, y: 30.5}
+        - {x: 48, y: 116.5}
+        - {x: -48, y: 116.5}
+        - {x: -79, y: 31.5}
+        - {x: -79, y: -49.5}
+        - {x: -52, y: -116.5}
+        - {x: 52, y: -116.5}
+        - {x: 58, y: -52.5}
+        - {x: 79, y: -47.5}
+        - {x: 79, y: 30.5}
+    - name: Joker
       rect:
         serializedVersion: 2
         x: 178
         y: 155
         width: 155
-        height: 234
+        height: 248
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 50.5, y: 117}
-        - {x: -50.5, y: 117}
-        - {x: -77.5, y: 111}
-        - {x: -77.5, y: -51}
-        - {x: -47.5, y: -117}
-        - {x: 47.5, y: -117}
-        - {x: 77.5, y: -49}
-        - {x: 77.5, y: 33}
-        - {x: 68.5, y: 99}
-    - name: Pirate Sprite
+      - - {x: 45.5, y: 124}
+        - {x: -46.5, y: 124}
+        - {x: -77.5, y: 105}
+        - {x: -77.5, y: -58}
+        - {x: -47.5, y: -124}
+        - {x: 47.5, y: -124}
+        - {x: 77.5, y: -56}
+        - {x: 77.5, y: 57}
+        - {x: 62.5, y: 116}
+    - name: Pirate
       rect:
         serializedVersion: 2
         x: 335
-        y: 155
+        y: 156
         width: 155
-        height: 234
+        height: 282
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 70.5, y: 117}
-        - {x: -72.5, y: 117}
-        - {x: -73.5, y: 104}
-        - {x: -77.5, y: 39}
-        - {x: -77.5, y: -64}
-        - {x: -47.5, y: -116}
-        - {x: -46.5, y: -117}
-        - {x: 47.5, y: -117}
-        - {x: 77.5, y: -49}
-        - {x: 77.5, y: 29}
-        - {x: 50.5, y: 32}
+      - - {x: 18.5, y: 141}
+        - {x: -22.5, y: 141}
+        - {x: -77.5, y: 117}
+        - {x: -77.5, y: -75}
+        - {x: -47.5, y: -141}
+        - {x: 49.5, y: -141}
+        - {x: 77.5, y: -78}
+        - {x: 77.5, y: 102}
+        - {x: 74.5, y: 108}
     outline: []
   spritePackingTag: 
   userData: 

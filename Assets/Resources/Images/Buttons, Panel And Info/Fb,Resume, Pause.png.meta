@@ -1,19 +1,19 @@
 fileFormatVersion: 2
 guid: c973613fc141a574985a78ef11d96911
-timeCreated: 1457169103
+timeCreated: 1457172555
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Retry Button
-    21300002: Menu Button
-    21300004: Forward Button
-    21300006: Resume Button
-    21300008: Coin Label
-    21300010: Score Label
+    21300000: Repeat Level Button
+    21300002: Go To Map Button
+    21300004: Next Level Button
+    21300006: Resume Game Button
+    21300008: Coin Score Button
+    21300010: Score
     21300012: Pause Button
-    21300014: Coin
-    21300016: Padlock
-    21300018: FB Button
+    21300014: UI Coin
+    21300016: Lock
+    21300018: Facebook Icon
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -60,7 +60,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Retry Button
+    - name: Repeat Level Button
       rect:
         serializedVersion: 2
         x: 6
@@ -79,7 +79,7 @@ TextureImporter:
         - {x: 31.5, y: -55}
         - {x: 55.5, y: -32}
         - {x: 55.5, y: 32}
-    - name: Menu Button
+    - name: Go To Map Button
       rect:
         serializedVersion: 2
         x: 121
@@ -97,7 +97,7 @@ TextureImporter:
         - {x: 55, y: -42}
         - {x: 55, y: 54}
         - {x: 50, y: 55}
-    - name: Forward Button
+    - name: Next Level Button
       rect:
         serializedVersion: 2
         x: 235
@@ -116,24 +116,26 @@ TextureImporter:
         - {x: 55, y: -46}
         - {x: 55, y: 36}
         - {x: 41, y: 55}
-    - name: Resume Button
+    - name: Resume Game Button
       rect:
         serializedVersion: 2
         x: 349
-        y: 397
+        y: 396
         width: 111
         height: 110
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -46.5, y: 55}
-        - {x: -55.5, y: 38}
-        - {x: -55.5, y: -55}
-        - {x: 55.5, y: -55}
-        - {x: 55.5, y: 37}
-        - {x: 50.5, y: 55}
-    - name: Coin Label
+      - - {x: -34.5, y: 55}
+        - {x: -55.5, y: 49}
+        - {x: -55.5, y: -42}
+        - {x: -34.5, y: -55}
+        - {x: 42.5, y: -55}
+        - {x: 55.5, y: -38}
+        - {x: 55.5, y: 42}
+        - {x: 40.5, y: 55}
+    - name: Coin Score Button
       rect:
         serializedVersion: 2
         x: 6
@@ -153,7 +155,7 @@ TextureImporter:
         - {x: 104, y: -22}
         - {x: 105, y: -19}
         - {x: 105, y: 15}
-    - name: Score Label
+    - name: Score
       rect:
         serializedVersion: 2
         x: 219
@@ -187,7 +189,7 @@ TextureImporter:
         - {x: 40, y: -34.5}
         - {x: 40, y: 23.5}
         - {x: 26, y: 40.5}
-    - name: Coin
+    - name: UI Coin
       rect:
         serializedVersion: 2
         x: 119
@@ -206,7 +208,7 @@ TextureImporter:
         - {x: 41, y: -37}
         - {x: 41, y: 38}
         - {x: 36, y: 41}
-    - name: Padlock
+    - name: Lock
       rect:
         serializedVersion: 2
         x: 257
@@ -228,7 +230,7 @@ TextureImporter:
         - {x: 86.5, y: -105.5}
         - {x: 86.5, y: 26.5}
         - {x: 84.5, y: 28.5}
-    - name: FB Button
+    - name: Facebook Icon
       rect:
         serializedVersion: 2
         x: 19

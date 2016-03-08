@@ -1,21 +1,21 @@
 fileFormatVersion: 2
 guid: a9791c5581ada0e49a64dcccac54536f
-timeCreated: 1457168557
+timeCreated: 1457177442
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Player_0
-    21300002: Player_1
-    21300004: Player_2
-    21300006: Player_3
-    21300008: Player_4
-    21300010: Player_5
-    21300012: Player_6
-    21300014: Player_7
-    21300016: Player_8
-    21300018: Player_9
-    21300020: Player_10
-    21300022: Player_11
+    21300000: Player Idle
+    21300002: Player Walk 1
+    21300004: Player Walk 2
+    21300006: Player Walk 3
+    21300008: Player Walk 4
+    21300010: Player Walk 5
+    21300012: Player Walk 6
+    21300014: Player Walk 7
+    21300016: Player Shoot 1
+    21300018: Player Shoot 2
+    21300020: Player Shoot 3
+    21300022: Player Shoot 4
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -62,7 +62,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Player_0
+    - name: Player Idle
       rect:
         serializedVersion: 2
         x: 23
@@ -70,7 +70,7 @@ TextureImporter:
         width: 159
         height: 174
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 2.5, y: 87}
@@ -82,7 +82,7 @@ TextureImporter:
         - {x: 79.5, y: -4}
         - {x: 79.5, y: 10}
         - {x: 69.5, y: 14}
-    - name: Player_1
+    - name: Player Walk 1
       rect:
         serializedVersion: 2
         x: 235
@@ -90,7 +90,7 @@ TextureImporter:
         width: 158
         height: 174
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -79, y: 87}
@@ -100,7 +100,7 @@ TextureImporter:
         - {x: 79, y: -35}
         - {x: 79, y: 12}
         - {x: -9, y: 87}
-    - name: Player_2
+    - name: Player Walk 2
       rect:
         serializedVersion: 2
         x: 433
@@ -108,7 +108,7 @@ TextureImporter:
         width: 158
         height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -66, y: 86.5}
@@ -118,26 +118,24 @@ TextureImporter:
         - {x: 79, y: -13.5}
         - {x: 79, y: 45.5}
         - {x: 15, y: 86.5}
-    - name: Player_3
+    - name: Player Walk 3
       rect:
         serializedVersion: 2
-        x: 624
+        x: 625
         y: 409
         width: 159
         height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -77.5, y: 86.5}
-        - {x: -79.5, y: 81.5}
-        - {x: -79.5, y: -75.5}
-        - {x: -72.5, y: -86.5}
-        - {x: 9.5, y: -86.5}
-        - {x: 79.5, y: -7.5}
-        - {x: 79.5, y: 34.5}
-        - {x: -0.5, y: 86.5}
-    - name: Player_4
+      - - {x: -79.5, y: 86.5}
+        - {x: -79.5, y: -86.5}
+        - {x: 28.5, y: -86.5}
+        - {x: 79.5, y: -42.5}
+        - {x: 79.5, y: 15.5}
+        - {x: 12.5, y: 86.5}
+    - name: Player Walk 4
       rect:
         serializedVersion: 2
         x: 25
@@ -145,7 +143,7 @@ TextureImporter:
         width: 158
         height: 174
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -64, y: 87}
@@ -156,7 +154,7 @@ TextureImporter:
         - {x: 79, y: -42}
         - {x: 79, y: 14}
         - {x: 10, y: 87}
-    - name: Player_5
+    - name: Player Walk 5
       rect:
         serializedVersion: 2
         x: 235
@@ -164,7 +162,7 @@ TextureImporter:
         width: 158
         height: 175
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -59, y: 87.5}
@@ -175,7 +173,7 @@ TextureImporter:
         - {x: 79, y: -57.5}
         - {x: 79, y: 64.5}
         - {x: 65, y: 87.5}
-    - name: Player_6
+    - name: Player Walk 6
       rect:
         serializedVersion: 2
         x: 433
@@ -183,7 +181,7 @@ TextureImporter:
         width: 158
         height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -77, y: 86.5}
@@ -193,7 +191,7 @@ TextureImporter:
         - {x: 79, y: -9.5}
         - {x: 79, y: 34.5}
         - {x: -4, y: 86.5}
-    - name: Player_7
+    - name: Player Walk 7
       rect:
         serializedVersion: 2
         x: 627
@@ -201,7 +199,7 @@ TextureImporter:
         width: 158
         height: 174
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 79, y: -17}
@@ -217,7 +215,7 @@ TextureImporter:
         - {x: -38, y: -73}
         - {x: -29, y: -87}
         - {x: 6, y: -87}
-    - name: Player_8
+    - name: Player Shoot 1
       rect:
         serializedVersion: 2
         x: 24
@@ -225,7 +223,7 @@ TextureImporter:
         width: 162
         height: 175
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 11, y: 87.5}
@@ -236,7 +234,7 @@ TextureImporter:
         - {x: 81, y: -6.5}
         - {x: 81, y: 22.5}
         - {x: 62, y: 61.5}
-    - name: Player_9
+    - name: Player Shoot 2
       rect:
         serializedVersion: 2
         x: 210
@@ -244,7 +242,7 @@ TextureImporter:
         width: 163
         height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 71.5, y: 46.5}
@@ -257,7 +255,7 @@ TextureImporter:
         - {x: 81.5, y: 28.5}
         - {x: 81.5, y: 43.5}
         - {x: 80.5, y: 47.5}
-    - name: Player_10
+    - name: Player Shoot 3
       rect:
         serializedVersion: 2
         x: 411
@@ -265,7 +263,7 @@ TextureImporter:
         width: 136
         height: 171
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -52, y: 85.5}
@@ -275,7 +273,7 @@ TextureImporter:
         - {x: 24, y: -85.5}
         - {x: 68, y: 31.5}
         - {x: 68, y: 85.5}
-    - name: Player_11
+    - name: Player Shoot 4
       rect:
         serializedVersion: 2
         x: 575
@@ -283,7 +281,7 @@ TextureImporter:
         width: 114
         height: 171
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -38, y: 85.5}

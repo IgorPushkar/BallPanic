@@ -1,21 +1,21 @@
 fileFormatVersion: 2
 guid: 17e7509bbd6ded84c98b63b98611b270
-timeCreated: 1457169542
+timeCreated: 1457173984
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Remove Ads Button
-    21300002: Double Weapon Button
-    21300004: Sticky Weapon Button
-    21300006: Buy Coins 1
-    21300008: Double Sticky Weapon Button
-    21300010: Share On FB Button
-    21300012: Buy Coins 3
-    21300014: Buy Coins 4
-    21300016: Buy Coins 5
-    21300018: Buy Coins 6
-    21300020: Buy Coins 2
-    21300022: Video Button
+    21300000: Remove Ads Icon
+    21300002: Double Arrows Icon
+    21300004: Sticky Arrow Icon
+    21300006: Double Coins Icon
+    21300008: Double Sticky Arrow Icon
+    21300010: Share On Facebook Icon
+    21300012: Pile Of Coins Icon
+    21300014: Bag Of Coins Icon
+    21300016: Chest Of Coins Icon
+    21300018: Castle Of Coins Icon
+    21300020: Stack Of Coins Icon
+    21300022: Watch Ads Icon
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -62,7 +62,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Remove Ads Button
+    - name: Remove Ads Icon
       rect:
         serializedVersion: 2
         x: 4
@@ -77,7 +77,7 @@ TextureImporter:
         - {x: -62.5, y: -62}
         - {x: 62.5, y: -62}
         - {x: 62.5, y: 62}
-    - name: Double Weapon Button
+    - name: Double Arrows Icon
       rect:
         serializedVersion: 2
         x: 133
@@ -92,7 +92,7 @@ TextureImporter:
         - {x: -63, y: -62}
         - {x: 63, y: -62}
         - {x: 63, y: 62}
-    - name: Sticky Weapon Button
+    - name: Sticky Arrow Icon
       rect:
         serializedVersion: 2
         x: 264
@@ -107,7 +107,7 @@ TextureImporter:
         - {x: -62.5, y: -62}
         - {x: 62.5, y: -62}
         - {x: 62.5, y: 62}
-    - name: Buy Coins 1
+    - name: Double Coins Icon
       rect:
         serializedVersion: 2
         x: 4
@@ -122,7 +122,7 @@ TextureImporter:
         - {x: -62.5, y: -62}
         - {x: 62.5, y: -62}
         - {x: 62.5, y: 62}
-    - name: Double Sticky Weapon Button
+    - name: Double Sticky Arrow Icon
       rect:
         serializedVersion: 2
         x: 134
@@ -137,7 +137,7 @@ TextureImporter:
         - {x: -62.5, y: -62}
         - {x: 62.5, y: -62}
         - {x: 62.5, y: 62}
-    - name: Share On FB Button
+    - name: Share On Facebook Icon
       rect:
         serializedVersion: 2
         x: 263
@@ -152,7 +152,7 @@ TextureImporter:
         - {x: -62.5, y: -62}
         - {x: 62.5, y: -62}
         - {x: 62.5, y: 62}
-    - name: Buy Coins 3
+    - name: Pile Of Coins Icon
       rect:
         serializedVersion: 2
         x: 4
@@ -167,7 +167,7 @@ TextureImporter:
         - {x: -50.5, y: -50.5}
         - {x: 50.5, y: -50.5}
         - {x: 50.5, y: 50.5}
-    - name: Buy Coins 4
+    - name: Bag Of Coins Icon
       rect:
         serializedVersion: 2
         x: 111
@@ -182,7 +182,7 @@ TextureImporter:
         - {x: -50.5, y: -50.5}
         - {x: 50.5, y: -50.5}
         - {x: 50.5, y: 50.5}
-    - name: Buy Coins 5
+    - name: Chest Of Coins Icon
       rect:
         serializedVersion: 2
         x: 216
@@ -197,7 +197,7 @@ TextureImporter:
         - {x: -50, y: -49.5}
         - {x: 50, y: -49.5}
         - {x: 50, y: 49.5}
-    - name: Buy Coins 6
+    - name: Castle Of Coins Icon
       rect:
         serializedVersion: 2
         x: 3
@@ -212,7 +212,7 @@ TextureImporter:
         - {x: -50.5, y: -50.5}
         - {x: 50.5, y: -50.5}
         - {x: 50.5, y: 50.5}
-    - name: Buy Coins 2
+    - name: Stack Of Coins Icon
       rect:
         serializedVersion: 2
         x: 111
@@ -227,7 +227,7 @@ TextureImporter:
         - {x: -50.5, y: -50.5}
         - {x: 50.5, y: -50.5}
         - {x: 50.5, y: 50.5}
-    - name: Video Button
+    - name: Watch Ads Icon
       rect:
         serializedVersion: 2
         x: 217

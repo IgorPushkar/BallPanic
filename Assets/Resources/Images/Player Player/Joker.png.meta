@@ -1,21 +1,21 @@
 fileFormatVersion: 2
 guid: 8e40bbc2609d45b4ab124b8b9af4b334
-timeCreated: 1457168530
+timeCreated: 1457176886
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Joker_0
-    21300002: Joker_1
-    21300004: Joker_2
-    21300006: Joker_3
-    21300008: Joker_4
-    21300010: Joker_5
-    21300012: Joker_6
-    21300014: Joker_7
-    21300016: Joker_8
-    21300018: Joker_9
-    21300020: Joker_10
-    21300022: Joker_11
+    21300000: Joker Idle
+    21300002: Joker Walk 1
+    21300004: Joker Walk 2
+    21300006: Joker Walk 3
+    21300008: Joker Walk 4
+    21300010: Joker Walk 5
+    21300012: Joker Walk 6
+    21300014: Joker Walk 7
+    21300016: Joker Shoot 1
+    21300018: Joker Shoot 2
+    21300020: Joker Shoot 3
+    21300022: Joker Shoot 4
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -62,7 +62,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Joker_0
+    - name: Joker Idle
       rect:
         serializedVersion: 2
         x: 4
@@ -70,7 +70,7 @@ TextureImporter:
         width: 163
         height: 167
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -61.5, y: 83.5}
@@ -82,7 +82,7 @@ TextureImporter:
         - {x: 81.5, y: -33.5}
         - {x: 81.5, y: 34.5}
         - {x: -7.5, y: 83.5}
-    - name: Joker_1
+    - name: Joker Walk 1
       rect:
         serializedVersion: 2
         x: 217
@@ -90,7 +90,7 @@ TextureImporter:
         width: 162
         height: 169
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -64, y: 84.5}
@@ -101,7 +101,7 @@ TextureImporter:
         - {x: 81, y: 0.5}
         - {x: 81, y: 21.5}
         - {x: -7, y: 84.5}
-    - name: Joker_2
+    - name: Joker Walk 2
       rect:
         serializedVersion: 2
         x: 420
@@ -109,7 +109,7 @@ TextureImporter:
         width: 162
         height: 169
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 0, y: 84.5}
@@ -125,7 +125,7 @@ TextureImporter:
         - {x: 32, y: -84.5}
         - {x: 81, y: -2.5}
         - {x: 81, y: 42.5}
-    - name: Joker_3
+    - name: Joker Walk 3
       rect:
         serializedVersion: 2
         x: 615
@@ -133,7 +133,7 @@ TextureImporter:
         width: 162
         height: 168
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -65, y: 84}
@@ -143,7 +143,7 @@ TextureImporter:
         - {x: 81, y: -40}
         - {x: 81, y: 27}
         - {x: 29, y: 84}
-    - name: Joker_4
+    - name: Joker Walk 4
       rect:
         serializedVersion: 2
         x: 7
@@ -151,7 +151,7 @@ TextureImporter:
         width: 162
         height: 166
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 36, y: 83}
@@ -162,7 +162,7 @@ TextureImporter:
         - {x: 54, y: -33}
         - {x: 81, y: -6}
         - {x: 81, y: 68}
-    - name: Joker_5
+    - name: Joker Walk 5
       rect:
         serializedVersion: 2
         x: 216
@@ -170,7 +170,7 @@ TextureImporter:
         width: 161
         height: 168
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -63.5, y: 84}
@@ -181,7 +181,7 @@ TextureImporter:
         - {x: 80.5, y: -34}
         - {x: 80.5, y: 31}
         - {x: 42.5, y: 84}
-    - name: Joker_6
+    - name: Joker Walk 6
       rect:
         serializedVersion: 2
         x: 417
@@ -189,7 +189,7 @@ TextureImporter:
         width: 162
         height: 167
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -81, y: 83.5}
@@ -198,7 +198,7 @@ TextureImporter:
         - {x: 81, y: -29.5}
         - {x: 81, y: 54.5}
         - {x: 21, y: 83.5}
-    - name: Joker_7
+    - name: Joker Walk 7
       rect:
         serializedVersion: 2
         x: 615
@@ -206,7 +206,7 @@ TextureImporter:
         width: 162
         height: 167
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -81, y: 83.5}
@@ -216,7 +216,7 @@ TextureImporter:
         - {x: 81, y: -15.5}
         - {x: 81, y: 62.5}
         - {x: 25, y: 83.5}
-    - name: Joker_8
+    - name: Joker Shoot 1
       rect:
         serializedVersion: 2
         x: 13
@@ -224,7 +224,7 @@ TextureImporter:
         width: 162
         height: 167
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -81, y: 83.5}
@@ -234,7 +234,7 @@ TextureImporter:
         - {x: 81, y: -8.5}
         - {x: 81, y: 75.5}
         - {x: 72, y: 83.5}
-    - name: Joker_9
+    - name: Joker Shoot 2
       rect:
         serializedVersion: 2
         x: 202
@@ -242,7 +242,7 @@ TextureImporter:
         width: 163
         height: 165
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -81.5, y: 82.5}
@@ -253,7 +253,7 @@ TextureImporter:
         - {x: 81.5, y: 25.5}
         - {x: 81.5, y: 58.5}
         - {x: 72.5, y: 82.5}
-    - name: Joker_10
+    - name: Joker Shoot 3
       rect:
         serializedVersion: 2
         x: 409
@@ -261,7 +261,7 @@ TextureImporter:
         width: 133
         height: 165
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -60.5, y: 82.5}
@@ -272,7 +272,7 @@ TextureImporter:
         - {x: 66.5, y: 50.5}
         - {x: 66.5, y: 81.5}
         - {x: 65.5, y: 82.5}
-    - name: Joker_11
+    - name: Joker Shoot 4
       rect:
         serializedVersion: 2
         x: 576
@@ -280,7 +280,7 @@ TextureImporter:
         width: 111
         height: 169
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -22.5, y: 84.5}
